@@ -1,0 +1,11 @@
+libraries/
+versions/
+logs/
+cache/
+*.jar
+*.bat
+*.vbs
+*.txt
+*.json
+*.properties
+!server.properties
